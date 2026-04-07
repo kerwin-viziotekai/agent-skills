@@ -1171,6 +1171,7 @@ Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [**PA·co Framework**](https://github.com/PenguinAlleyApps/paco-framework) — Markdown-based multi-agent operations system for Claude Code. Includes pre-built department agents (Engineering, QA, Security, Finance, Legal, Growth), file-based dispatch protocol, session memory, and 19 scheduled task scripts. Zero-code setup. MIT licensed.
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
 
